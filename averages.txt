@@ -1,0 +1,13 @@
+Average Calories, Protein, Fat, Carbs for each Food Group
+
+Spices - Calories: 136, Protein: 4, Fat: 2, Carbs: 31
+GRAINS - Calories: 344, Protein: 13, Fat: 3, Carbs: 64
+Teas - Calories: 49, Protein: 0, Fat: 0, Carbs: 9
+Fruits & Vegetables - Calories: 62, Protein: 3, Fat: 0, Carbs: 11
+Legumes & Nuts - Calories: 311, Protein: 17, Fat: 13, Carbs: 33
+Nuts & Seeds - Calories: 566, Protein: 19, Fat: 47, Carbs: 23
+Dairy - Calories: 200, Protein: 16, Fat: 13, Carbs: 3
+Fats - Calories: 877, Protein: 0, Fat: 99, Carbs: 0
+Poultry & Eggs - Calories: 167, Protein: 17, Fat: 9, Carbs: 0
+Seafood - Calories: 105, Protein: 18, Fat: 2, Carbs: 0
+Red Meat & Pork - Calories: 124, Protein: 16, Fat: 5, Carbs: 0

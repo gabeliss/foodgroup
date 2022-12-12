@@ -1,0 +1,13 @@
+Food with Max Calories In Food Group
+
+Spices - Food: Turmeric, Calories: 312
+GRAINS - Food: Oats, Calories: 389
+Teas - Food: Pu-erh Tea, Calories: 300
+Fruits & Vegetables - Food: Spirulina, Calories: 290
+Legumes & Nuts - Food: Peanut Butter, Calories: 598
+Nuts & Seeds - Food: Brazil Nuts, Calories: 659
+Dairy - Food: Gruyere Cheese, Calories: 413
+Fats - Food: Peanut Oil, Calories: 884
+Poultry & Eggs - Food: Chicken, Calories: 215
+Seafood - Food: Wild Salmon, Calories: 146
+Red Meat & Pork - Food: Pork, Calories: 198
